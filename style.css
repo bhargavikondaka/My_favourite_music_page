@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-heading {
+    color: purple;
+    font-family: "Bree Serif";
+    margin: 20px;
+}
+
+.paragraph {
+    color: #fefefe;
+    font-family: "Roboto";
+    border-color: #3CD1D6;
+    font-size: 15px;
+}
+
+.mcard {
+    background-color: #e98d92;
+    text-align: center;
+    background-size: cover;
+    border-top-left-radius: 10vh;
+    border-top-right-radius: 10vh;
+
+    padding: 5px;
+}
+
+.bg-container {
+    background-image: url("https://wallpapercave.com/wp/wp6702413.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.button {
+    border-style: solid;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: #AC78E5;
+    font-family: "Roboto";
+    color: white;
+    border: 2px solid transparent;
+}
+
+.back-container {
+    background-image: url("https://wallpapercave.com/wp/wp3713111.jpg");
+    
+    background-size: cover;
+    padding: 2vh;
+
+}
+
+.top-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+    padding: 3vh;
+    color: white;
+}
+
+.card-image {
+    height: 15vh;
+    width: 15vh;
+    border-radius: 4px;
+}
+
+.card-heading {
+    color:white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "fanatasy";
+}
+
+.songs-card {
+     border:2px solid white;
+    padding: 3vh;
+    border-radius: 3vh;
+    margin: 2vh;
+    background-color: transparent;
+    display: flex; 
+    justify-content: space-around;
+    color:white;
+
+}
+
+.song-container {
+    background-image: url("https://wallpapercave.com/wp/wp5157406.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.info {
+    color: white;
+    font-family: "bree Serif";
+    font-weight: normal;
+    font-size: 5vh;
+    font-style: italic;
+    padding: 5vh;
+}
+
+.mvcard {
+    background-color: white;
+    height: 75vh;
+    width: 75vh;
+    padding: 4vh;
+
+    border-radius: 7px;
+    margin: 7px;
+}
+
+.song-name {
+    color: black;
+    font-weight: bold;
+    font-size: 3vh;
+    font-style: italic;
+    padding: 1vh;
+
+}
+
+.fire-container {
+    background-image: url("https://wallpapercave.com/wp/wp5157406.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.information {
+    color: white;
+    font-family: "bree Serif";
+    font-weight: normal;
+    font-size: 5vh;
+    font-style: italic;
+    padding: 5vh;
+}
+
+.infocard {
+    background-color: white;
+    height: 80vh;
+    width: 75vh;
+    padding: 4vh;
+
+    border-radius: 7px;
+    margin: 7px;
+}
+
+.song-name {
+    color: rgb(255, 252, 252);
+    font-weight: bold;
+    font-size: 3vh;
+    font-style: italic;
+    padding: 1vh;
+
+}
+@media (min-width: 768px) {
+    .bg-container{
+        background-image: url("https://images.openai.com/static-rsc-4/VJKPRRznkO-ALn7NIva4McX8S6lEkiwGbUpYMI2tcVMuOlg5adyiMqmkqn3x8D2r9oSwqLoTG3-mRNMAFuYick6HAuZiozAL2SYVfJT6yUz00HZSt0C8S9QbPWev_R3JDkpN_ed5iBuZRnG9-Q6xsKrjLcbCoTKKa9-bv6I05BAqO9KJEQEwGen5ThhGGh_v?purpose=fullsize");
+    
+}
+.back-container{
+    background-image: url("https://wallpapercave.com/wp/wp4428487.jpg");
+}
+.songs-card {
+    border:2px solid white;
+    padding: 3vh;
+    border-radius: 3vh;
+    margin: 2vh;
+    background-color: transparent;
+    display: flex; 
+    justify-content: space-around;
+
+}
+.songs{
+   height:77vh;
+   overflow-y: auto; 
+}
+}
