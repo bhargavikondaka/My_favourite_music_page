@@ -68,6 +68,7 @@ git clone https://github.com/your-username/magic-shop.git
 2. Open the project folder.
 
 3. Open `index.html` in your browser.
+4. The live link: magicshop.ccbp.tech
 
 ---
 
