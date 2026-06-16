@@ -68,7 +68,8 @@ git clone https://github.com/your-username/magic-shop.git
 2. Open the project folder.
 
 3. Open `index.html` in your browser.
-4. [![Live Demo](https://bhargavikondaka.github.io/My_favourite_music_page/)]
+4. live link : "https://bhargavikondaka.github.io/My_favourite_music_page/"
+
 
 
 ---
